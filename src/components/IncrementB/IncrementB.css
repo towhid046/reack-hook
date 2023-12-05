@@ -1,0 +1,19 @@
+.card{
+    padding: 20px;
+    background-color: rgb(15, 15, 15);
+    border-radius: 5px;
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+.card h1{
+    font-size: 32px;
+}
+.AddToCard_btn{
+    border: none;
+    outline: none;
+    padding: 5px 12px;
+    border-radius: 5px;
+    background-color: rgb(226, 220, 212);
+    color: #000;
+    font-size: 18px;
+}
